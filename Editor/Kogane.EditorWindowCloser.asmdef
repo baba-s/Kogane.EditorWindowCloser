@@ -1,0 +1,18 @@
+{
+    "name": "Kogane.EditorWindowCloser",
+    "rootNamespace": "",
+    "references": [
+        "GUID:2b9f0879fac063147a39f01090a15955"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
